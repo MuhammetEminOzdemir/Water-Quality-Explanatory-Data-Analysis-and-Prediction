@@ -1,16 +1,16 @@
 # Water-Quality-Explanatory-Data-Analysis-and-Prediction
 Water Quality Explanatory Data Analysis and Prediction
 
-**What will you learn from this project?
-**
-Bivariate and multivariate data analysis
+# What will you learn from this project?
 
-Correlation analysis
+1-Bivariate and multivariate data analysis
 
-Preprocessing: missing value, train-test split and normalization
+2-Correlation analysis
 
-Modelling: Decision Tree and Random Forest Classifiers
+3-Preprocessing: missing value, train-test split and normalization
 
-Visualize Decision Tree
+4-Modelling: Decision Tree and Random Forest Classifiers
 
-Random Forest Hyperparameter Tuning
+5-Visualize Decision Tree
+
+6-Random Forest Hyperparameter Tuning
